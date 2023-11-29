@@ -4,9 +4,9 @@ It’s my Game Boy designed Adventure Game!
 
 How to play:
 
-Load up an emulator of your choice and open
+Load up an emulator of your choice and
 
-the file that ends in .gb
+open the file that ends in .gb
 
 
 CONTROLS:
