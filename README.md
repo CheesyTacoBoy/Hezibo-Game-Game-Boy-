@@ -6,9 +6,9 @@ How to play:
 
 Unzip the zipped folder and Load up an
 
-emulator of your choice and then send
+emulator of your choice, then send the
 
-the file that ends in .gb to the emulator!
+file that ends in .gb to the emulator!
 
 
 CONTROLS:
