@@ -4,9 +4,11 @@ It’s my Game Boy designed Adventure Game!
 
 How to play:
 
-Load up an emulator of your choice and
+Unzip the zipped folder and Load up an
 
-open the file that ends in .gb
+emulator of your choice and then send
+
+the file that ends in .gb to the emulator!
 
 
 CONTROLS:
